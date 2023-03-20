@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  background-color:  #515f9caf;
+
+  width: 100%;
+  padding: 10px 20px;
+}
+.link {
+  text-decoration: none;
+  font-size: 24px;
+  margin-left: 20px;
+  transition: opacity .3s ease-out;
+  color: #000;
+
+  &:hover {
+ 
+    opacity: .4;
+    
+  }
+  &-active {
+    color: white;
+  }
+}

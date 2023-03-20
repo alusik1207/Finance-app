@@ -6,8 +6,8 @@ import Homepage from './pages/Homepage'
 import Navigation from './components/Navigation'
 import Incomes from './pages/Incomes'
 import Expenses from './pages/Expenses'
-import CategoryIcons from "./components/CategoryIcons/CategoryIcons";
-import * as categories from "./constans/ExpensesCategories";
+// import CategoryIcons from "./components/CategoryIcons/CategoryIcons";
+// import * as categories from "./constans/ExpensesCategories";
 
 const menu = [
     {

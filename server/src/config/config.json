@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "kla230311",
+    "database": "finance_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "kla230311",
+    "database": "finance_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "kla230311",
+    "database": "finance_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
